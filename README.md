@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sowjanya
 - 👀 I’m interested in Learning New Things
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development and Data Analyst course
 - 💞️ I’m looking to collaborate on the challenging things that come in my Carrer
 - 📫 How to reach me  Mail:sowjigracevemula@gmail.com
 
